@@ -1,0 +1,44 @@
+
+QUANTITY	 	COMPONENT NAME
+1	×	68B09 CPU
+A Motorola or second source compatible 6809 CPU (this is not to be confused with the 6809E or EP )
+4	×	SIP-9 (BUS Type) 10k Resistor networks
+these tie each 10k path through pin 1
+5	×	10k Resistor
+5% or better 1/4 or 1/2 Watt Footprint uses 1/2 watt but they are not required
+4	×	1k Resistor
+5% or better, 1 is for optional power module mod, 2 for the optional serial card and may be omitted (1/2 or 1/4 Watt)
+1	×	SN74HCT00N
+Logic ICs / Gates and Inverters
+1	×	SN74HCT138N
+Logic ICs / Decoders, Encoders, Multiplexers, Demultiplexers
+1	×	Tactile Push button
+A 6x6 will fit, but you may have to splay the legs out a bit.
+1	×	Latching DPDT switch
+a 7x7 will fit, but you may have to splay the legs out a bit.
+1	×	DC005 5.5x2.1mm Barrel Jack
+Standard layout barrel jack, whatever fits your supply
+1	×	LED 5mm
+The Drop resistor is 1K which may need to be ajusted depending on your part but should be good enough for most standard 5mm leds
+6	×	Sockets
+Various sizes -- The EPROM Silkscreen and bypass cap are positioned for even a large ZIF socket if desired
+1	×	Buck Converter Module
+LM2596 DC to DC Converter module, optional if you intend to build your own power supply.
+4	×	2.54mm 2x20 40-Pin Female Pin Header
+Expansion slot connector
+1	×	2.54mm 2x20 40-Pin Male Right Angle Header
+For the Serial expansion card (if desired)
+1	×	68B50 (6850 ACIA) Sierial Chip (highest speed grade)
+For the Serial Expansion card (if desired)
+6	×	100pF bypass capacitors
+Regular Ceramic Disk is fine
+1	×	4.7 uF Capacitor
+I used an electrolytic, a tantalum or ceramic would be better.
+8	×	47 uF Electrolytic capacitors
+These are source caps for the card edge connectors. 10 or 25v fit well in this footprint.
+1	×	1N4148 Diode
+Silicon Switching diode
+1	×	HB6809 PCB
+Main PCB
+1	×	HB6809 Minimal ACIA Serial Module PCB
+optional, but required for serial output and highly recommended
