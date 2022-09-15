@@ -27,5 +27,7 @@ The Design layout is distributed under <a href=https://cern-ohl.web.cern.ch/>CER
 <p>
 Hackaday.io project site: https://hackaday.io/project/186398-hb6809-homebrew-computer
 <br>
-launch video:https://youtu.be/lImFmy-sJVo
+Launch video: https://youtu.be/lImFmy-sJVo<br>
+Our build sponsor: http://PCBWay.com - for all your rapid prototype needs, thank you PCBWay!
+
 </p>
