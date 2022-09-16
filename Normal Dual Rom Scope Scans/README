@@ -1,0 +1,4 @@
+This directory contains pictures of the computer built with the ACIA when it is at an Assist9 Ready prompt. the Reset pulse should start low,
+come high after a short delay and then the test lines should be as pictured.
+
+these were not taken with a very high resolution scope, as I do not have one.
