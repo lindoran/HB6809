@@ -42,3 +42,10 @@ Silicon Switching diode
 Main PCB
 1	×	HB6809 Minimal ACIA Serial Module PCB
 optional, but required for serial output and highly recommended
+1	×	62256 compatible SRAM
+1	×	27128 compatible EEPROM / EPROM
+I have not tested the AT28C16 16k EEPROM ​​ My guess is it will work, but if you are haveing trouble, an eeprom that is fully TTL compatible may be your best bet
+1	×	7.3728 Mhz Crystal
+2	×	22pf Ceramic disk capacitors
+1	×	8 position dip switch
+ACIA Adapter needs a dip switch block for picking which interrupt line to route the signal down.
