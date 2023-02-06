@@ -23,6 +23,16 @@ Both those works are Copywrite / Licenced per thier creators Please check out bo
 <p>
 The Design layout is distributed under <a href=https://cern-ohl.web.cern.ch/>CERN-OHL-P (CERN Open Hardware Licence Permissive)</a> with Copywrite © 2022 David Collins.
 </p>
+<p>
+Jeff Tranters Combination Rom is licenced under the following details: 
+Copyright (C) 2012-2020 by Jeff Tranter tranter@pobox.com
+
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+</p>
 <H2>Project Links:</H2>
 <p>
 Hackaday.io project site: https://hackaday.io/project/186398-hb6809-homebrew-computer
