@@ -24,7 +24,7 @@ Both those works are Copywrite / Licenced per thier creators Please check out bo
 The Design layout is distributed under <a href=https://cern-ohl.web.cern.ch/>CERN-OHL-P (CERN Open Hardware Licence Permissive)</a> with Copywrite © 2022 David Collins.
 </p>
 <p>
-Jeff Tranters Combination Rom is licenced under the following details: 
+Jeff Tranters Combination Rom is licenced under the following details:<BR> 
 Copyright (C) 2012-2020 by Jeff Tranter tranter@pobox.com
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
