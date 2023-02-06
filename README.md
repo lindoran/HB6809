@@ -7,6 +7,12 @@ Mini ITX form factor expandable, minimal 6809 Home brew computer
 These are the project files for the HB6809 - a minimial expansion computer based off the Grant Serle / Jeff Tranter Minimal 6809 computer.
 when built with the ACIA expansion it should work with jeff's <a href=https://github.com/jefftranter/6809/tree/master/sbc/combined>supurb combined rom</a> (Assist9 / MS Extended Basic + goodies) Do not forget to offset the .HEX in your programer to C000 the begining of the ROM space in the memory map (ie. C000 in the .hex should be 0000h in the ROM) 
 </p>
+<p>
+<B>UPDATE:</B><BR><BR>
+I have updated the combo rom to allow for more memory availibe to a CMOC prgrammer the .HEX files are availible for the appropreate rom chip sizes here:<BR>
+https://github.com/lindoran/HB6809/tree/main/Updated%20Combination%20ROM
+</P
+
 
 <img src="https://github.com/lindoran/HB6809/blob/main/Board%20Renders/HB6809%20Rev%202.2%20TOP.svg" width=100% height=AUTO class="center" />
 
