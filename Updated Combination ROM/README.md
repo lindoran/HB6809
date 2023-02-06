@@ -1,3 +1,4 @@
+<PRE>
 This is a variant of firmware that combines both Microsoft BASIC and
 the ASSIST09 monitor into one ROM. It also includes my disassembler
 which adds a new monitor U command and trace function which adds a new
@@ -121,3 +122,4 @@ ASSIST09 Command List:
 				  D and M commands.
 
 	Ctrl-X will abort any command.
+</PRE>
