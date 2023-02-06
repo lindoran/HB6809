@@ -1,3 +1,13 @@
+<H2> Updated Combo Rom </H2>
+
+<p>
+This is Jeff Tranters Combination rom with a updated program area to allow for more contiguous RAM Space between the top of basic and the 
+bottom of the machine language monitor. 
+</p>
+<p>
+All of this (except were its not / IE Microsoft / Motorola -- see sources ) is copywrite Jeff Tranter and released under the apachie licence 
+</p>
+
 <PRE>
 This is a variant of firmware that combines both Microsoft BASIC and
 the ASSIST09 monitor into one ROM. It also includes my disassembler
