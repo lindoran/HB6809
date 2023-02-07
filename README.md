@@ -27,7 +27,7 @@ Jeffs - http://jefftranter.blogspot.com/2019/01/a-6809-single-board-computer.htm
 Both those works are Copywrite / Licenced per thier creators Please check out both they are a wonderfull resorce! 
 <br><br>
 <p>
-The Design layout is distributed under <a href=https://cern-ohl.web.cern.ch/>CERN-OHL-P (CERN Open Hardware Licence Permissive)</a> with Copywrite © 2022 David Collins.
+The Design layout is distributed under <a href=https://cern-ohl.web.cern.ch/>CERN-OHL-P (CERN Open Hardware Licence Permissive)</a> with Copywrite © 2022 David Collins. z80dad@gmail.com
 </p>
 <p>
 Jeff Tranters Combination Rom is licenced under the following details:<BR> 
