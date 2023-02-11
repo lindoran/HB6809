@@ -43,7 +43,7 @@ such damages, and You shall hold the Licensor(s) free and harmless from
 any liability, costs, damages, fees and expenses, including claims by third
 parties, in relation to such use
 </P>
-<hl>
+<h3> Combo ROM licence </h3>
 <p>
 Jeff Tranters Combination Rom is licenced under the following details:<BR> 
 Copyright (C) 2012-2020 by Jeff Tranter tranter@pobox.com
