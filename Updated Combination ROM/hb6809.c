@@ -25,6 +25,10 @@
 //  start this program as 'G 179'
 //  potentally loading code over a saved space will cause issues. 
 
+//  compile: cmoc -flex -srec hb6809.c
+//  this should produce a motorola srec file for loading
+//  please see the CMOC project at http://perso.b2b2c.ca/~sarrazip/dev/cmoc.html
+
 // ASSIST09 SYSTEM CALLS USED
 #define OUTCH	1		// sends a character to the terminal
 #define MONITR	8		// soft start ASSIST09
