@@ -1,0 +1,12 @@
+0001                         ; 6809 detection program for the Asist09 asembly language monitor
+0002                         ; z flag will be set if 6809 and clear if 6309, then will soft start 
+0003                         ; the monitor. You can then check the status of the CC register with 
+0004                         ; 'R'.
+0005                             
+0006 1000                        org $1000
+0007                             
+0008                             
+0009 1000 10 43                  fdb    $1043           ;6309 COMD instruction (COMA on 6809)
+0010 1002 e1 61                  cmpb   1,S             ;not equal if 6309
+0011 1004 3f                     swi
+0012 1005 08                     fcb    8               ; system call to ASSIST09
