@@ -7,7 +7,7 @@ G 1000
 z flag will be set if 6809 and clear if 6309, then will soft start 
 the monitor. You can then check the status of the CC register with 'R'.
 
-CC Flag determines which cpu 
-<hb>
+CC Flag determines which cpu
+<br>
   D9  --  6809  
   F8  --  6309
